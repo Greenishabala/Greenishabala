@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋🏻, I'm Greenisha Bala</h1>
+<h1 align="center">Hi 👋🏻, I'm Greenisha Bala from NITJSR</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+
+![person-playing-3d-video-games-device](https://github.com/user-attachments/assets/691a3082-f84c-4e06-a96c-694e3fb30c66)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
